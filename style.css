@@ -1,0 +1,7 @@
+
+/* rende questa div "offerta del giono" non visibile ai mobile quindi al di sotto di 768px */
+@media (max-width: 768px) {
+    #offerta-del-giorno {
+      display: none;
+    }
+  }
